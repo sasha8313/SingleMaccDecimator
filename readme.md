@@ -1,0 +1,1 @@
+Decimator example based on MACC architecture
